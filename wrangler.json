@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "webaipro",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "e481570f-3c8b-4fc5-ad03-004ce6d98f83",
+			"database_name": "webaipro-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
